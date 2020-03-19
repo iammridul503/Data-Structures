@@ -1,5 +1,5 @@
 /*@author:"Mridul Mishra"
-Title:"Linked list Implementation"*/
+Title:"Linked list Implementation" */
 
 import java.util.*; 
 public class LinkedList2
