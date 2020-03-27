@@ -16,11 +16,13 @@ public class Stack3
         stack.push("Algorithms");  
         stack.push("in");
         stack.push("Java"); 
+    
         Iterator<String> itr=stack.iterator();  
         while(itr.hasNext())
         {  
         System.out.print(itr.next()+" ");  
         } 
+        
         System.out.println(); 
 
         stack.pop();   
