@@ -1,6 +1,6 @@
 /*
 @author:"Mridul Mishra"
-Title:"Queue Implementation using Linked List"
+Title:"Queue Implementation using Linked List "
 **folows FIFO(First In First Out)/LILO(Last In Last Out)
 */
 import java.io.*;
