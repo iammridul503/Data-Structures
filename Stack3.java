@@ -16,6 +16,7 @@ public class Stack3
         stack.push("Algorithms");  
         stack.push("in");
         stack.push("Java"); 
+        System.out.println(stack);
     
         Iterator<String> itr=stack.iterator();  
         while(itr.hasNext())
@@ -26,9 +27,8 @@ public class Stack3
         System.out.println(); 
 
         stack.pop();   
-        for(String str:stack)
-        {  
-        System.out.print(str+" ");  
-        }  
+        stack.pop();
+        System.out.println(stack);
+
     }  
 }  
